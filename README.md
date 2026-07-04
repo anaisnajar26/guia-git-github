@@ -32,13 +32,7 @@ El repositorio incluye demostraciones detalladas paso a paso sobre tres interfac
   * `release/` y `hotfix/`: Ramas de pulido y solución de fallos urgentes.
 * **Gestión de Conflictos:** Simulación realista de coordinación entre perfiles de *Data Scientist* y *Data Engineer* uniendo sus avances y solucionando solapamientos de código.
 
----
 
-## 🛠️ Tecnologías y Herramientas Cubiertas
-* **Core:** Git (Sistema de Control de Versiones Distribuido)
-* **Plataforma Cloud:** GitHub
-* **Entornos de Desarrollo:** Terminal Bash/Zsh & PyCharm Community Edition
-* **Interfaces Gráficas:** GitHub Desktop
 
 ---
 
